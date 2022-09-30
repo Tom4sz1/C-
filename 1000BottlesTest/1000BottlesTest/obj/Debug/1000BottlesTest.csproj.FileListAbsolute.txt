@@ -1,0 +1,14 @@
+C:\BeginningCSharp7\BottlesTest\1000BottlesTest\1000BottlesTest\obj\Debug\1000BottlesTest.csprojAssemblyReference.cache
+C:\BeginningCSharp7\BottlesTest\1000BottlesTest\1000BottlesTest\obj\Debug\1000BottlesTest.csproj.CoreCompileInputs.cache
+C:\BeginningCSharp7\BottlesTest\1000BottlesTest\1000BottlesTest\bin\Debug\1000BottlesTest.exe.config
+C:\BeginningCSharp7\BottlesTest\1000BottlesTest\1000BottlesTest\bin\Debug\1000BottlesTest.exe
+C:\BeginningCSharp7\BottlesTest\1000BottlesTest\1000BottlesTest\bin\Debug\1000BottlesTest.pdb
+C:\BeginningCSharp7\BottlesTest\1000BottlesTest\1000BottlesTest\obj\Debug\1000BottlesTest.exe
+C:\BeginningCSharp7\BottlesTest\1000BottlesTest\1000BottlesTest\obj\Debug\1000BottlesTest.pdb
+C:\Users\tompi\Desktop\1000BottlesTest\1000BottlesTest\bin\Debug\1000BottlesTest.exe.config
+C:\Users\tompi\Desktop\1000BottlesTest\1000BottlesTest\bin\Debug\1000BottlesTest.exe
+C:\Users\tompi\Desktop\1000BottlesTest\1000BottlesTest\bin\Debug\1000BottlesTest.pdb
+C:\Users\tompi\Desktop\1000BottlesTest\1000BottlesTest\obj\Debug\1000BottlesTest.csprojAssemblyReference.cache
+C:\Users\tompi\Desktop\1000BottlesTest\1000BottlesTest\obj\Debug\1000BottlesTest.csproj.CoreCompileInputs.cache
+C:\Users\tompi\Desktop\1000BottlesTest\1000BottlesTest\obj\Debug\1000BottlesTest.exe
+C:\Users\tompi\Desktop\1000BottlesTest\1000BottlesTest\obj\Debug\1000BottlesTest.pdb

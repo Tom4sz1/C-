@@ -1,0 +1,7 @@
+﻿Build started...
+1>------ Build started: Project: CodeChallenge, Configuration: Debug Any CPU ------
+1>C:\Users\tompi\Desktop\CodeChallenge\CodeChallenge\CodeChallenge\Program.cs(13,20,13,28): warning CS0219: The variable 'minPrize' is assigned but its value is never used
+1>C:\Users\tompi\Desktop\CodeChallenge\CodeChallenge\CodeChallenge\Program.cs(14,17,14,20): warning CS0219: The variable 'day' is assigned but its value is never used
+1>CodeChallenge -> C:\Users\tompi\Desktop\CodeChallenge\CodeChallenge\CodeChallenge\bin\Debug\netcoreapp3.1\CodeChallenge.dll
+1>Done building project "CodeChallenge.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
